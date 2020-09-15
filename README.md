@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-In my previous life I aspired to be a concert pianist. I played lots of piano and traveled a bit. Hear me play a Beethoven Trio, Copland, and a Liszt Concerto.
+In my previous life I aspired to be a concert pianist. I played lots of piano and traveled a bit. Hear me play a [Beethoven Trio](https://youtu.be/psRoQK_j0pY), [Copland](https://youtu.be/T8n5tYnc5sY), and a [Liszt Concerto](https://youtu.be/LePrhMvuE1k).
 
 I have 3 degrees, a bachelor's of Music in Piano Performance, a Master's degree in Piano Performance and Pedagogy, and finally a 2nd bachelor's in Computer Science (Spring 2018). I am done with school, but not done learning. 😉
 
