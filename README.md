@@ -7,7 +7,7 @@ I have 3 degrees, a bachelor's of Music in Piano Performance, a Master's degree 
 - I'm currently learning GoLang
 - Ask me about fermenting jalapeños
 - I love to hike the mountains of Northern Utah
-- I'm currently reading The Choice by Dr. Edith Eva Eger
+- I'm currently reading *The Choice* by Dr. Edith Eva Eger
 
 ### My Writing
 
