@@ -5,6 +5,7 @@ In my previous life I aspired to be a concert pianist. I played lots of piano an
 I have 3 degrees, a bachelor's of Music in Piano Performance, a Master's degree in Piano Performance and Pedagogy, and finally a 2nd bachelor's in Computer Science (Spring 2018). I am done with school, but not done learning. 😉
 
 - I'm currently learning GoLang
+- Learning to speak Portugeuse
 - Ask me about fermenting jalapeños
 - I love to hike the mountains of Northern Utah
 - I'm currently reading *The Choice* by Dr. Edith Eva Eger
