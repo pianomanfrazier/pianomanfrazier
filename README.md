@@ -8,7 +8,7 @@ I have 3 degrees, a bachelor's of Music in Piano Performance, a Master's degree 
 - Learning to speak Portuguese, fluent in Mandarin Chinese
 - Ask me about fermenting jalapeños
 - I love to hike the mountains of Northern Utah
-- I'm currently reading *The Choice* by Dr. Edith Eva Eger
+- I'm currently reading *Crime and Punishment* by Fyodor Dostoevsky
 
 ### My Writing
 
