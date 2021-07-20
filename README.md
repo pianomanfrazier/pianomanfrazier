@@ -4,11 +4,11 @@ In my previous life I aspired to be a concert pianist. I played lots of piano an
 
 I have 3 degrees, a bachelor's of Music in Piano Performance, a Master's degree in Piano Performance and Pedagogy, and finally a 2nd bachelor's in Computer Science (Spring 2018). I am done with school, but not done learning. 😉
 
-- 💻 I'm currently learning GoLang
-- 🇧🇷 Learning to speak Portuguese, fluent in Mandarin Chinese
-- 🌶️ Ask me about fermenting jalapeños
+- 💻 I'm currently learning Machine Learning
+- [Taiwan Flag](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-taiwan_1f1f9-1f1fc.png) fluent in Mandarin Chinese
+- 🧀 Ask me about my favorite cheese
 - ⛰️ I love to hike the mountains of Northern Utah
-- 📖 I'm currently reading *Crime and Punishment* by Fyodor Dostoevsky
+- 📖 I'm currently reading *Grow Up!* by Everett Piper
 
 ### My Writing
 
@@ -22,6 +22,6 @@ Some blog posts
 
 ### My Favorite side projects
 
-- https://knowyourtheory.com all written in Elm a pure functional compile to JS language
+- https://knowyourtheory.com all written in Elm, a pure functional compile to JS language
 - [Music Scale Explorer](https://frazierpianostudio.com/resources/scale-explorer/) again written all in Elm
 - [Subscription Box Managing App](https://github.com/pianomanfrazier/popcorncove_subscriptions) see demo video [here](https://youtu.be/P_8gmr_Ol-4)
