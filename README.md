@@ -8,7 +8,7 @@ I have 3 degrees, a bachelor's of Music in Piano Performance, a Master's degree 
 - <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-taiwan_1f1f9-1f1fc.png" width="25" height="25" style="display: inline" alt="Taiwan Flag" /> fluent in Mandarin Chinese
 - 🧀 Ask me about my favorite cheese
 - ⛰️ I love to hike the mountains of Northern Utah
-- 📖 I'm currently reading *Grow Up!* by Everett Piper
+- 📖 I'm currently reading *Last of the Breed* by Louis L'Amour
 
 ### My Writing
 
@@ -22,6 +22,7 @@ Some blog posts
 
 ### My Favorite side projects
 
+- Just finished a Pediatric Dentist website -> https://drdoug.netlify.app/
 - https://knowyourtheory.com all written in Elm, a pure functional compile to JS language
 - [Music Scale Explorer](https://frazierpianostudio.com/resources/scale-explorer/) again written all in Elm
 - [Subscription Box Managing App](https://github.com/pianomanfrazier/popcorncove_subscriptions) see demo video [here](https://youtu.be/P_8gmr_Ol-4)
