@@ -22,7 +22,7 @@ Some blog posts
 
 ### My Favorite side projects
 
-- Just finished a Pediatric Dentist website -> https://drdoug.netlify.app/
+- https://drdoug.netlify.app/ - Just finished a Pediatric Dentist website (just html, javascript, css - no frameworks, and a little bit of Elm)
 - https://knowyourtheory.com all written in Elm, a pure functional compile to JS language
 - [Music Scale Explorer](https://frazierpianostudio.com/resources/scale-explorer/) again written all in Elm
 - [Subscription Box Managing App](https://github.com/pianomanfrazier/popcorncove_subscriptions) see demo video [here](https://youtu.be/P_8gmr_Ol-4)
