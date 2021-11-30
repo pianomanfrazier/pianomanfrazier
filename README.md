@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 In my previous life I aspired to be a concert pianist. I played lots of piano and traveled a bit. Hear me play a [Beethoven Trio](https://youtu.be/psRoQK_j0pY), [Copland](https://youtu.be/T8n5tYnc5sY), and a [Liszt Concerto](https://youtu.be/LePrhMvuE1k). I play mostly jazz now.
 
@@ -10,11 +10,11 @@ I have 3 degrees, a bachelor's of Music in Piano Performance, a Master's degree 
 - ⛰️ I love to hike the mountains of Northern Utah
 - 📖 I'm currently reading *Crime & Punishment* by Fyodor Dostoevsky
 
-### My Writing
+## My Writing
 
 In my [Elm Calculator Book](https://pianomanfrazier.com/post/elm-calculator-book/01-intro/) I walk through building a calculator using the Elm programming language.
 
-Some blog posts
+### Some blog posts
 
 - [Write a book with Markdown](https://pianomanfrazier.com/post/write-a-book-with-markdown/)
 - [Comparing Svelte and PencilJS](https://pianomanfrazier.com/post/comparing-svelte-stencil/)
