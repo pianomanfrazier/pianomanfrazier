@@ -4,11 +4,11 @@ In my previous life I aspired to be a concert pianist. I played lots of piano an
 
 I have 3 degrees, a bachelor's of Music in Piano Performance, a Master's degree in Piano Performance and Pedagogy, and finally a 2nd bachelor's in Computer Science (Spring 2018). I am done with school, but not done learning. 😉
 
-- 💻 I'm currently learning Machine Learning (Natural Language Processing NLP)
+- 💻 I'm currently learning about Bitcoin
 - <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-taiwan_1f1f9-1f1fc.png" width="25" height="25" style="display: inline" alt="Taiwan Flag" /> fluent in Mandarin Chinese
 - 🧀 Ask me about my favorite cheese
 - ⛰️ I love to hike the mountains of Northern Utah
-- 📖 I'm currently reading *Last of the Breed* by Louis L'Amour
+- 📖 I'm currently reading *Crime & Punishment* by Fyodor Dostoevsky
 
 ### My Writing
 
