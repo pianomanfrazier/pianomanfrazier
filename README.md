@@ -7,7 +7,7 @@ I have 3 degrees, a bachelor's of Music in Piano Performance, a Master's degree 
 - 💻 I'm currently learning about Bitcoin
 - <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-taiwan_1f1f9-1f1fc.png" width="25" height="25" style="display: inline" alt="Taiwan Flag" /> fluent in Mandarin Chinese
 - 🧀 Ask me about my favorite cheese
-- ⛰️ I love to hike the mountains of Northern Utah
+- ⛰️ I love to hike the mountains
 - 📖 I'm currently reading *Crime & Punishment* by Fyodor Dostoevsky
 
 ## My Writing
