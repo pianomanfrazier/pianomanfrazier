@@ -4,11 +4,11 @@ In my previous life I aspired to be a concert pianist. I played lots of piano an
 
 I have 3 degrees, a bachelor's of Music in Piano Performance, a Master's degree in Piano Performance and Pedagogy, and finally a 2nd bachelor's in Computer Science (Spring 2018). I am done with school, but not done learning. 😉
 
-- 💻 I'm currently learning about Bitcoin
+- 💻 I'm currently learning about Agentic AI
 - 中文 fluent in Mandarin Chinese
 - 🧀 Ask me about my favorite cheese
 - ⛰️ I love to hike the mountains
-- 📖 I'm currently reading *The Law* by Frédéric Bastiat
+- 📖 I'm currently reading *Middlemarch* by George Elliot
 
 ## My Writing
 
@@ -26,4 +26,3 @@ In my [Elm Calculator Book](https://pianomanfrazier.com/post/elm-calculator-book
 - https://drdoug.netlify.app/ - Pediatric Dentist website (just html, javascript, css - no frameworks, and a little bit of Elm)
 - https://knowyourtheory.com - all written in Elm, a pure functional compile to JS language
 - [Music Scale Explorer](https://frazierpianostudio.com/resources/scale-explorer/) - again written all in Elm
-- [Subscription Box Managing App](https://github.com/pianomanfrazier/popcorncove_subscriptions) - see demo video [here](https://youtu.be/P_8gmr_Ol-4)
